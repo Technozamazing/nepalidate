@@ -1,4 +1,4 @@
-### Used for only learning purpose...
+### Used only for learning purpose...
 
 The files included in this repository solely belongs to [Yarsa] (https://github.com/yarsa)
 
@@ -9,7 +9,7 @@ This is a simple website that shows today's Nepali date. It is built with HTML, 
 
 ## Demo
 
-You can see this site live at [NepaliDate.romanstha.com.np](https://nepalidate.romanstha.com.np)
+You can see this site live at [nepalidate.romanstha.com.np](https://nepalidate.romanstha.com.np)
 
 ## Bikram Sambat Date
 
