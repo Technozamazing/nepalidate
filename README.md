@@ -1,5 +1,6 @@
-## The files included in this repository solely belongs to [Yarsa] (https://github.com/yarsa)
-Used for only learning purpose...
+### Used for only learning purpose...
+The files included in this repository solely belongs to [Yarsa] (https://github.com/yarsa)
+
 
 # Today's Nepali Date
 
