@@ -1,7 +1,6 @@
 ### Used only for learning purpose...
 
-The files included in this repository solely belongs to [Yarsa] (https://github.com/yarsa)
-
+The files included in this repository solely belongs to [Yarsa](https://nepalidate.romanstha.com.np)
 
 # Today's Nepali Date
 
